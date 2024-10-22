@@ -1,14 +1,9 @@
-const add = function() {
-	
-};
+const add = (num1,num2) => num1+num2
 
-const subtract = function() {
-	
-};
 
-const sum = function() {
-	
-};
+const subtract = (num1,num2) =>num1-num2
+
+const sum = (num1,num2) => num1+num2	
 
 const multiply = function() {
 

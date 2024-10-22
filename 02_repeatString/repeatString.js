@@ -1,5 +1,4 @@
 
-
 const repeatString = function(string, number){
     if (number<0){
         return "ERROR"
